@@ -1,6 +1,6 @@
 # kb (Knowledge base)
 
-Here (mainly in the wiki) you find code snippets, short guides or cheat sheets and other stuff that will help you
+Here (mainly in the [wiki](https://github.com/TeamFlowerPower/kb/wiki)) you find code snippets, short guides or cheat sheets and other stuff that will help you
 
 
 <div align="center">
