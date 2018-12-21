@@ -1,4 +1,4 @@
-# kb (Knowledge base)
+# [kb (Knowledge base)](https://github.com/TeamFlowerPower/kb/wiki)
 
 Here (mainly in the [wiki](https://github.com/TeamFlowerPower/kb/wiki)) you find code snippets, short guides or cheat sheets and other stuff that will help you
 
