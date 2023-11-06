@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-11-06T15:02:15.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="-wsDBXg-dhAjm20TKIuO" version="22.0.3" type="device">
+  <diagram name="Page-1" id="55U2gt680xN_nQ4M--KJ">
+    <mxGraphModel dx="1728" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-1" value="UML 2.x" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="1580" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-5" value="" style="group;fontSize=18;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="20" width="1565" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-2" value="Structural Diagrams" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="770" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-6" value="Composite Structure Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Show internal structures of a class including interfaces to other parts of the program&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="480" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-7" value="Deployment Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Software/artefact-hardware &lt;font style=&quot;font-size: 10px;&quot;&gt;relationship/distribution (run-time config visualised statically)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="480" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-8" value="Package Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Packages and their dependencies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="325" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-9" value="Profile Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Extends UML for other platforms (e.g. .NET, ...) or domains (BPM, ...) in an additive manner by using stereotypes (&quot;Router&quot;, &quot;Switch&quot;, ...), tagged values (like an employee with certain properties) and constraints as primitives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="258" y="650" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-10" value="Class Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Model structure of an app&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="170" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-11" value="Object Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Shows a particular state of the system at a certain point in time (instances of object compared to object definition in class diagram)&lt;br&gt;Useful for showing examples of data structs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="141" y="310" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-12" value="Component Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;How components (code, run-time, ..,) work together + relations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="170" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-3" value="Behavioural Diagrams" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="840" y="90" width="760" height="739.07" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-13" value="Activity Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Stepwise activities of an app (both computational and organisational processes)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="865" y="170.00333333333333" width="210" height="98.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-14" value="Use Case Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Functional requirements for a system per use-case&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="170.00333333333333" width="204" height="98.4" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-15" value="State Machine Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Shows states and possible transitions in a system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="170.00333333333333" width="210" height="98.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-16" value="Interaction Diagrams" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="690" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-17" value="Sequence Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Interactions of objects in a time sequence in a specific use-case&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="925" y="440.00333333333333" width="210" height="98.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-18" value="Communication Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Alternative to sequence diagram but focusses more on interaction then on time sequence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="920" y="609.2" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-19" value="Interaction Overview Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Control flow (variant of activity diagram) but each activity is pictured as a frame (allows nesting)&lt;br&gt;Avoids big if-else cascades to easily deconstruct complex scenarios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="600" width="260" height="128.4" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-20" value="Timing Diagram&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Behaviour of object over time (contains states/conditions)&lt;br&gt;Special form of sequence diagram&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="440.00666666666666" width="210" height="98.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="XDQoO6VRgcgwQBSpzcAx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XDQoO6VRgcgwQBSpzcAx-16" target="XDQoO6VRgcgwQBSpzcAx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
